@@ -1,0 +1,12 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "Tech test for SABSTT (node test)",
+  "main": "index.js",
+  "author": "Angus Moncrieff <angus.moncrieff@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "papaparse": "^5.3.1"
+  }
+}
